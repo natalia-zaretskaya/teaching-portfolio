@@ -19,7 +19,7 @@ Having read the teaching concept of another professor, I got inspiration to try 
 This course will be largely based on, and developed from, the ongoing course in the master's curriculum. Here is the tentative course syllabus for UGOnline.
 
 ::: {=latex}
-\renewcommand{\arraystretch}{2}  % increase to 1.5x default spacing
+\renewcommand{\arraystretch}{2}
 :::
 
 +----------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -65,7 +65,7 @@ This course will be largely based on, and developed from, the ongoing course in 
 Although doctoral students in psychology doctoral school are used to critically reading articles from their undergraduate studies (I heard from the colleague at the MedUni that it is the other way around for them), I think it is important to keep up the critical thinking skill, while at the same time being aware of the most recent literature. This course is not planned yet, this is my idea for the not-so-near future.
 
 ::: {=latex}
-\renewcommand{\arraystretch}{2}  % increase to 1.5x default spacing
+\renewcommand{\arraystretch}{2}
 :::
 
 +----------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
