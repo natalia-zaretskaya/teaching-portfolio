@@ -1,0 +1,141 @@
+# Appendix
+
+## Certificates of attended university didactic courses {#sec-certificates}
+
+### 09/2024 Einführung in das Audience-Response-System Particify
+
+::: {=latex}
+\begin{center}
+\includegraphics[width=0.75\linewidth]{certificates/Certificate_Particify.pdf}
+\end{center}
+:::
+
+### 02/2023 From Passive to Active: How to Increase Student Engagement in the Classroom Using Digital Tools
+
+::: {=latex}
+\begin{center}
+\includegraphics[width=0.85\linewidth]{certificates/Certificate_Digital_Tools.pdf}
+\end{center}
+:::
+
+### 02/2023 "Moodlen” wie ein Profi: Tipps & Tricks zur effizienten Nutzung von Moodle als Begleitung von Präsenzlehre
+
+::: {=latex}
+\begin{center}
+\includegraphics[width=0.85\linewidth]{certificates/Certificate_Moodle.pdf}
+\end{center}
+:::
+
+### 10/2023 Lehrportfolio I
+
+::: {=latex}
+\begin{center}
+\includegraphics[width=0.85\linewidth]{certificates/Certificate_Lehrportfolio_I_Zaretskaya.pdf}
+\end{center}
+:::
+
+### 03/2020 Online-Beratung zu Open-Book-Prüfungen mit Moodle
+
+Unfortunately no certificate is available, but the course was held via Skype for Business by Simone Adams and Michael Kopp from the Zentrum für digitales Lehren und Lernen on 26.05.2020
+
+### 02/2011 Teaching and Didactics
+
+::: {=latex}
+\begin{center}
+\includegraphics[width=0.85\linewidth]{certificates/Certificate_Teaching_and_Didactics.pdf}
+\end{center}
+:::
+
+## Course evaluations {#sec-evaluations}
+
+Unfortunately some of the evaluations in UGOnline seem to be unavailable for technical reasons. I am providing those I could get/gather.
+
+### 2024 WS VL
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2024_WS_VL.pdf}
+:::
+
+### 2024 WS KS
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2024_WS_KS.pdf}
+:::
+
+### 2020 SS SK
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2020_SS_SK.pdf}
+:::
+
+### 2020 SS AU
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2020_SS_AU.pdf}
+:::
+
+### 2019 WS SK2
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2019_WS_SK2.pdf}
+:::
+
+### 2019 WS SK1
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2019_WS_SK1.pdf}
+:::
+
+### 2019 SS SK
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2019_SS_SK.pdf}
+:::
+
+### 2019 SS AU
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2019_SS_AU.pdf}
+:::
+
+### 2018 WS SK2
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2018_WS_SK2.pdf}
+:::
+
+### 2018 WS SK1
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2018_WS_SK1.pdf}
+:::
+
+### 2018 SS SK
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2018_SS_SK.pdf}
+:::
+
+### 2018 SS AU
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2018_SS_AU.pdf}
+:::
+
+### 2015 WS Retinotopic Mapping
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2015_WS_retinotopic_mapping.pdf}
+:::
+
+## Example flipped classroom worksheet {#sec-worksheet}
+
+::: {=latex}
+\includepdf[pages=-]{materials/2_SJ_questions.pdf}
+:::
+
+## Example quarto document rendered as PDF {#sec-quarto}
+
+::: {=latex}
+\includepdf[pages=4-]{materials/Scientific-articles-and-peer-review.pdf}
+:::

@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "3c0d3315"
+  },
+  "philosophy.qmd": {
+    "philosophy.html": "d8c517e2"
+  },
+  "methodology.qmd": {
+    "methodology.html": "debfbce4"
+  },
+  "courses.qmd": {
+    "courses.html": "9e06d8dc"
+  },
+  "supervision.qmd": {
+    "supervision.html": "37c3cce8"
+  },
+  "outlook.qmd": {
+    "outlook.html": "131240ae"
+  },
+  "references.qmd": {
+    "references.html": "46bf7137"
+  },
+  "appendix.qmd": {
+    "appendix.html": "23038196"
+  }
+}

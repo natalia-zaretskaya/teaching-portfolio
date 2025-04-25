@@ -1,0 +1,43 @@
+# Courses
+
+## University teaching
+
+::: {=latex}
+\begingroup
+\tiny
+:::
+
+| University | Title | Level | Role | Years | Major | SWS/ ECTS | Language | Type | Frequency | \# of students |
+|-------|------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Graz | General psychology I: Perception and Attention | Bachelor | 100% | Since 2024 | Psychology | 2/3 | German | VL | 1x weekly, 1 semester | 542 |
+| Graz | Experimental cognitive psychology | Doctoral | 50% | WS 2023 | Psychology | 1/1.5 | English | PV | 1x every two weeks, 1 semester | 7 |
+| Graz | 602.966 Psychological research methods III | Bachelor | 50% | WS 2023 | Psychology | 3/5 | English/ German | SE | 1x every two weeks, 1 semester | 9 |
+| Graz | PSY.847 Advanced Neuroimaging Methods | Master | 100% | 2022, 2023, 2025 | Psychology | 2/4 | English | SE | 1x weekly, 1 semester | \~8-12 |
+| Graz | PSY.843 Hands-on EEG in cognitive neuroscience | Master | 100% | 2023 | Psychology | 2/4 | English | SE | 1x weekly, 1 semester | 9 |
+| Graz | 602.004: Empirical studies in general or biological psychology | Bachelor | 100% | Since 2018 | Psychology | 2/3+1 | English | KS | 1x weekly, 1 semester | \~30-50 |
+| Graz | 602.035 Selected topics in general psychology: Visual illusions in cognitive neuroscience | Bachelor | 100% | Since 2018 | Psychology | 2/3 | English | SE | 1x weekly, 1 semester | 18-25 |
+| Graz | 602.046 Selected topics in general psychology: Modern neuroscience and the free will debate | Bachelor | 100% | Since 2018 | Psychology | 2/3 | English | SE | 1x weekly, 1 semester | 18-25 |
+| Graz | 602.063 Selected topics in general psychology: Neural mechanisms of consciousness | Bachelor | 100% | Since 2018 | Psychology | 2/3 | English | SE | 1x weekly, 1 semester | 18-25 |
+| Graz | 602.046 Selected topics in general psychology: Higher-level visual functions | Bachelor | 100% | Since 2018 | Psychology | 2/3 | English | SE | 1x weekly, 1 semester | 18-25 |
+| [Tübingen](https://www.neuroschool-tuebingen.de/) | Retinotopic mapping techniques | Doctoral | 100% | 2015 | Neuroscience | 1/1 | English | KS | one full day | \~30-50 |
+| [Harvard](https://gate.nmr.mgh.harvard.edu/wiki/whynhow/index.php/Main_Page) | Introduction to fMRI data analysis tools | All | 100% | 2015 | All | n/a | English | VL | 1.5h | \~20 |
+| [Harvard](https://gate.nmr.mgh.harvard.edu/wiki/whynhow/index.php/Main_Page) | Introduction to functional MRI | All | 100% | 2015 | All | n/a | English | VL | 1.5h | \~20 |
+| [Tübingen](https://www.neuroschool-tuebingen.de/) | TMS applications in cognitive neuroscience | Master | 100% | 2012 | n/a | n/a | English | VL | 1.5h | \~12 |
+
+: VL - lecture/Vorlesung, SE - seminar, KS - course, PV - Privatissimum
+
+::: {=latex}
+\endgroup
+:::
+
+## Non-university teaching
+
+Though modest, I do have some experience teaching outside of academia.
+
+-   Summer 2024: Introduction to EEG to high school students as part of the biology class at Graz International Bilingual School (together with Ana Arsenovic, see the picture below).
+
+    ![Ana Arsenovic and myself teaching high school students the basics of EEG at GIBS (c) Visual Neuroscience Lab](images/EEEF0F95-9BEC-4879-A34B-A1EA12C469E3.JPG){width="287"}
+
+-   2009-2013 Hands-on demonstrations of the transcranial magnetic stimulation (TMS) for the "Girls day" (activity to engage young women in STEM) at the [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en), Tübingen, Germany
+
+-   2009-2012 Hands-on demonstrations of the transcranial magnetic stimulation (TMS) at the Open House of the [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en), Tübinge, Germany

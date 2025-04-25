@@ -1,0 +1,32 @@
+{
+    "id": "DBAAC9F8",
+    "path": "C:/Users/zaretska/Nextcloud/teaching_portfolio/teaching-portfolio-zaretskaya/courses.qmd",
+    "project_path": "courses.qmd",
+    "type": "quarto_markdown",
+    "hash": "179048070",
+    "contents": "",
+    "dirty": false,
+    "created": 1745567975558.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "32,0",
+        "scrollLine": "4",
+        "rmdVisualModeLocation": "2867:2185",
+        "quartoPreviewFormat": "pdf"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1745584099,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1745584099588,
+    "read_only": false,
+    "read_only_alternatives": []
+}

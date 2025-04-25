@@ -1,0 +1,53 @@
+# TODO
+# make PDFs available in HTML version
+
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Teaching Portfolio"
+  author: 
+    - name: "Natalia Zaretskaya"
+      orcid: 0000-0003-4562-7045
+      email: natalia.zaretskaya@uni-graz.at
+      corresponding: true
+      affiliations:
+        - name: University of Graz
+          address: Universitätsplatz 2
+          city: Graz
+          state: Austria
+          postal-code: 8010
+  date: last-modified
+  date-format: "MMMM YYYY"
+  cover-image: images/brain_beeds.JPG
+  chapters:
+    - index.qmd
+    - philosophy.qmd
+    - methodology.qmd
+    - courses.qmd
+    - supervision.qmd
+    - outlook.qmd
+    - references.qmd
+    - appendix.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{pdfpages}
+    pdf-engine: pdflatex
+    titlepage: true
+
+quarto:
+  crossref: true
+
+editor: visual
+

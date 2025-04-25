@@ -1,0 +1,47 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Teaching Portfolio"
+  author: 
+    - name: "Natalia Zaretskaya"
+      orcid: 0000-0003-4562-7045
+      email: natalia.zaretskaya@uni-graz.at
+      affiliations:
+        - name: University of Graz
+          address: Universitaetsplatz 2
+          city: Graz
+          state: Austria
+          postal-code: 8010
+  date: last-modified
+  date-format: "MMMM YYYY"
+  chapters:
+    - index.qmd
+    - philosophy.qmd
+    - methodology.qmd
+    - courses.qmd
+    - supervision.qmd
+    - development.qmd
+    - outlook.qmd
+    - appendix.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{pdfpages}
+    pdf-engine: pdflatex
+
+quarto:
+  crossref: true
+
+editor: visual
+

@@ -1,0 +1,140 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1093/comjnl/27.2.97",
+            "ISSN": "0010-4620",
+            "URL": "https://doi.org/10.1093/comjnl/27.2.97",
+            "author": [
+                {
+                    "family": "Knuth",
+                    "given": "Donald E."
+                }
+            ],
+            "container-title": "Comput. J.",
+            "id": "knuth84",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1984,
+                        5
+                    ]
+                ]
+            },
+            "page": "97-111",
+            "publisher": "Oxford University Press, Inc.",
+            "publisher-place": "USA",
+            "title": "Literate programming",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "DOI": "10.1016/j.neuroimage.2016.03.008",
+            "URL": "http://www.ncbi.nlm.nih.gov/pubmed/26975554",
+            "author": [
+                {
+                    "family": "Grassi",
+                    "given": "Pablo R"
+                },
+                {
+                    "family": "Zaretskaya",
+                    "given": "Natalia"
+                },
+                {
+                    "family": "Bartels",
+                    "given": "Andreas"
+                }
+            ],
+            "container-title": "NeuroImage",
+            "id": "grassi2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        6
+                    ]
+                ]
+            },
+            "note": "PMID: 26975554",
+            "page": "367-377",
+            "title": "Parietal cortex mediates perceptual gestalt grouping independent of stimulus size",
+            "type": "article-journal",
+            "volume": "133"
+        },
+        {
+            "DOI": "10.1093/cercor/bhac244",
+            "URL": "https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhac244/6627270",
+            "author": [
+                {
+                    "family": "Zaretskaya",
+                    "given": "Natalia"
+                },
+                {
+                    "family": "Fink",
+                    "given": "Erik"
+                },
+                {
+                    "family": "Arsenovic",
+                    "given": "Ana"
+                },
+                {
+                    "family": "Ischebeck",
+                    "given": "Anja"
+                }
+            ],
+            "container-title": "Cerebral Cortex",
+            "id": "zaretskaya2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7,
+                        2
+                    ]
+                ]
+            },
+            "title": "Fast and functionally specific cortical thickness changes induced by visual stimulation",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.3389/fpsyg.2022.1067985",
+            "URL": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1067985/full",
+            "author": [
+                {
+                    "family": "Lhotka",
+                    "given": "Magdalena"
+                },
+                {
+                    "family": "Ischebeck",
+                    "given": "Anja"
+                },
+                {
+                    "family": "Helmlinger",
+                    "given": "Birgit"
+                },
+                {
+                    "family": "Zaretskaya",
+                    "given": "Natalia"
+                }
+            ],
+            "container-title": "Frontiers in Psychology",
+            "id": "lhotka2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        4
+                    ]
+                ]
+            },
+            "title": "No common factor for illusory percepts, but a link between pareidolia and delusion tendency: A test of predictive coding theory",
+            "title-short": "No common factor for illusory percepts, but a link between pareidolia and delusion tendency",
+            "type": "article-journal",
+            "volume": "13"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}
