@@ -1,6 +1,3 @@
-# TODO
-# make PDFs available in HTML version
-
 project:
   type: book
   output-dir: docs
@@ -43,9 +40,11 @@ format:
     include-in-header: 
       text: |
         \usepackage{pdfpages}
+    include-before-body: title.tex
     pdf-engine: pdflatex
-    titlepage: true
-
+    table:
+      booktabs: false
+    filters: [remove_title.lua]
 quarto:
   crossref: true
 
