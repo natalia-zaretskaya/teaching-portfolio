@@ -132,6 +132,55 @@
             "title-short": "No common factor for illusory percepts, but a link between pareidolia and delusion tendency",
             "type": "article-journal",
             "volume": "13"
+        },
+        {
+            "DOI": "10.48550/ARXIV.2506.08872",
+            "URL": "https://arxiv.org/abs/2506.08872",
+            "author": [
+                {
+                    "family": "Kosmyna",
+                    "given": "Nataliya"
+                },
+                {
+                    "family": "Hauptmann",
+                    "given": "Eugene"
+                },
+                {
+                    "family": "Yuan",
+                    "given": "Ye Tong"
+                },
+                {
+                    "family": "Situ",
+                    "given": "Jessica"
+                },
+                {
+                    "family": "Liao",
+                    "given": "Xian-Hao"
+                },
+                {
+                    "family": "Beresnitzky",
+                    "given": "Ashly Vivian"
+                },
+                {
+                    "family": "Braunstein",
+                    "given": "Iris"
+                },
+                {
+                    "family": "Maes",
+                    "given": "Pattie"
+                }
+            ],
+            "id": "kosmyna2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task",
+            "title-short": "Your brain on ChatGPT",
+            "type": "article-journal"
         }
     ],
     "project_biblios": [

@@ -4,6 +4,8 @@
 
 ### 09/2024 Einführung in das Audience-Response-System Particify
 
+This course was particularly useful for my lecture [2024 WS VL Allgemeine Psychologie I: Wahrnehmung und Aufmerksamkeit](#sec-eval_2024_WS_VL), which is held for a relatively large audience. Using the Audience Response System "Particify" I could engage everyone and conduct various demonstrations and small experiments with the audience as participants. I think using Particify was the key for the success of this lecture and the overall positive [evaluation](#sec-eval_2024_WS_VL).
+
 ::: {=latex}
 \begin{center}
 \includegraphics[width=0.75\linewidth]{certificates/Certificate_Particify.pdf}
@@ -14,7 +16,21 @@
 [View certificate (PDF)](certificates/Certificate_Particify.pdf)
 :::
 
+### 10/2023 Lehrportfolio I
+
+In this course I got insights about what a teaching portfolio could look like and had a chance to reflect on my own teaching practices. I also got a few useful tips about the technicalities of getting course evaluations through UGOnline.
+
+::: {=latex}
+\begin{center} \includegraphics[width=0.85\linewidth]{certificates/Certificate_Lehrportfolio_I_Zaretskaya.pdf} \end{center}
+:::
+
+::: {.content-visible when-format="html"}
+[View certificate (PDF)](certificates/Certificate_Lehrportfolio_I_Zaretskaya.pdf)
+:::
+
 ### 02/2023 From Passive to Active: How to Increase Student Engagement in the Classroom Using Digital Tools
+
+This was a useful course about engaging the audience, with a lot of useful tips particularly for large audiences or online classes. For in person teaching I usually prefer personal interaction over digital tools, and cover the rest with Particify.
 
 ::: {=latex}
 \begin{center}
@@ -28,6 +44,8 @@
 
 ### 02/2023 "Moodlen” wie ein Profi: Tipps & Tricks zur effizienten Nutzung von Moodle als Begleitung von Präsenzlehre
 
+In this course I learned a few more "advanced" Moodle features like Workshop, WordCloud, Wiki, Board, etc. In practice I don't use most of these tools, because I feel that they are more appropriate for asynchornous teachign during the COVID pandemic, which is luckily over. But it is good to know that these tools exist, and I do use some of what I learned in this course (e.g. Grouping tool, Choice) in addition to the typical tools like Forum, Assignemnet and Student Folder.
+
 ::: {=latex}
 \begin{center}
 \includegraphics[width=0.85\linewidth]{certificates/Certificate_Moodle.pdf}
@@ -38,23 +56,13 @@
 [View certificate (PDF)](certificates/Certificate_Moodle.pdf)
 :::
 
-### 10/2023 Lehrportfolio I
-
-::: {=latex}
-\begin{center}
-\includegraphics[width=0.85\linewidth]{certificates/Certificate_Lehrportfolio_I_Zaretskaya.pdf}
-\end{center}
-:::
-
-::: {.content-visible when-format="html"}
-[View certificate (PDF)](certificates/Certificate_Lehrportfolio_I_Zaretskaya.pdf)
-:::
-
 ### 03/2020 Online-Beratung zu Open-Book-Prüfungen mit Moodle
 
 Unfortunately no certificate is available, but the course was held via Skype for Business by Simone Adams and Michael Kopp from the Zentrum für digitales Lehren und Lernen on 26.05.2020
 
 ### 02/2011 Teaching and Didactics
+
+This was the first course about university teaching I took while still being a graduate student. For the first time I got to reflect about what is a good teacher and what professors are my positive (and negative) teaching role models.
 
 ::: {=latex}
 \begin{center}
@@ -66,12 +74,39 @@ Unfortunately no certificate is available, but the course was held via Skype for
 [View certificate (PDF)](certificates/Certificate_Teaching_and_Didactics.pdf)
 :::
 
+## Course evaluations[^appendix-1] {#sec-evaluations}
 
-## Course evaluations {#sec-evaluations}
+[^appendix-1]: Unfortunately some of the evaluations in UGOnline seem to be unavailable for technical reasons. I am providing those I could get online or gather from my own archive.
 
-Unfortunately some of the evaluations in UGOnline seem to be unavailable for technical reasons. I am providing those I could get online or gather from my own archive.
+For a few recent course evaluations below I provide a brief comment on what I could take from these evaluations for the future.
 
-### 2024 WS VL Allgemeine Psychologie I: Wahrnehmung und Aufmerksamkeit
+### 2025 SS SE Advanced Seminar: Advanced Neuroimaging Methods
+
+The feedback for this course was overall very positive, so I will mainly work to improve my style (trying not to scare off people who may be interested in the course content in the very first session). Also I will further work on the technical part, making the server available to the students via VPN.
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2025_SS_GV.pdf}
+:::
+
+::: {.content-visible when-format="html"}
+[View evaluation (PDF)](evaluations/2025_SS_GV.pdf)
+:::
+
+### 2025 SS SE SK: Neural Mechanisms of Consciousness
+
+I was positively surprised by the friendly feedback I got for this course, because I personally felt that the course failed completely. This just emphasizes how a course instructor can become entirely disconnected from the audience (which should not happen). I was very happy about the suggestion made by several students about additionally reading the articles before class. I was always reluctant to introduce this, because I thought that this will cause even more complaints about the course workload. Now that this comes from the students themselves I feel more confident that this will be useful and will be accepted by the students.
+
+::: {=latex}
+\includepdf[pages=-]{evaluations/2025_SS_SK.pdf}
+:::
+
+::: {.content-visible when-format="html"}
+[View evaluation (PDF)](evaluations/2025_SS_SK.pdf)
+:::
+
+### 2024 WS VL Allgemeine Psychologie I: Wahrnehmung und Aufmerksamkeit {#sec-eval_2024_WS_VL}
+
+One key aspect that I plan to improve in the next year's lecture based on the critique is the format of offline lecture notes, which I want to format in a more reader-friendly manner.
 
 ::: {=latex}
 \includepdf[pages=-]{evaluations/2024_WS_VL.pdf}
@@ -81,8 +116,9 @@ Unfortunately some of the evaluations in UGOnline seem to be unavailable for tec
 [View evaluation (PDF)](evaluations/2024_WS_VL.pdf)
 :::
 
-
 ### 2024 WS KS Selected Studies in General Psychology
+
+I have been teaching this course for many years already, and I have learned to ignore the critique that this course is a lot of work. For this specific course I measured the students' workload for the course with a special tool provided by the LQM department (at the beginning of every class students had to enter the amount of hours they spent on coursework in the previous week), and confirmed that in relation to ECTS workload, students are still under- rather than overworked for this course. I do not want to give up any of the workload because I truly believe that students learn a lot. One thing I am considering changing based on this year's feedback is splitting the exam into two parts and having one mid-term that focuses on the studies and their design, and the second final focusing on manuscript writing and statistics.
 
 ::: {=latex}
 \includepdf[pages=-]{evaluations/2024_WS_KS.pdf}
